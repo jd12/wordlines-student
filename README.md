@@ -17,9 +17,9 @@ Your input has 18 non-blank characters.
 
 Notice that in the sample output, there is an extra blank line (2 instead of 1) between "is" and "the", because there are two spaces between these words in the input. This is ok, but not absolutely necessary; just having different words on different lines is acceptable. Finally, note that both the "-" and the "!" are counted in the reported character count. You should count all punctuation in this way in your solution.
 
-#### Tip: Use Scanner to read user input
+## Tip: Scanner
 
-1. Use [Scanner](https://www.w3schools.com/java/java_user_input.asp) to read from the keyboard.
+Use [Scanner](https://www.w3schools.com/java/java_user_input.asp) to read from the keyboard.
 
 If
 `scan`
