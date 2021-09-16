@@ -22,9 +22,9 @@ Notice that in the sample output, there is an extra blank line (2 instead of 1) 
 Use [Scanner](https://www.w3schools.com/java/java_user_input.asp) to read from the keyboard.
 
 If
-`scan`
+`scanner`
 
 is a Scanner object, then
-`String inputStr = scan.nextLine();`
+`int inputNumber = scan.nextInt();`
 
-will read an entire line from the keyboard, and copy it to the String inputStr.
+will read an integer inputted from the keyboard, and copy it to the int inputNumber.
