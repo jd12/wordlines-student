@@ -3,7 +3,7 @@
 For this assignment you are to create a one class Java application called WordLines that reads in a line of text from the keyboard, and then prints to the console the words in the line, each on a separate display line. Finally, your program should print the number of non-blank characters on the line. For example, if this is the entered line:
 
 ```
-> here is   the hill-top!
+> here is  the hill-top!
 
 your program should print:
 
