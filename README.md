@@ -25,6 +25,6 @@ If
 `scanner`
 
 is a Scanner object, then
-`int inputString = scanner.nextLine();`
+`String inputString = scanner.nextLine();`
 
-will read an integer inputted from the keyboard, and copy it to the int inputNumber.
+will read in a line of text inputted from the keyboard, and copy it to the String `inputString`.
